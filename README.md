@@ -55,8 +55,12 @@ brew uninstall --cask --zap planwell
 ## Links
 
 - [Website](https://planwellmd.com)
-- [GitHub Repository](https://github.com/cucumbers2blue/planwell.mono)
-- [Download Directly](https://github.com/cucumbers2blue/planwell.mono/releases/latest)
+- [Releases Repository](https://github.com/cucumbers2blue/planwell.brew)
+- [Download Directly](https://github.com/cucumbers2blue/planwell.brew/releases/latest)
+
+## Note
+
+This tap distributes pre-built binaries only. The source code is maintained in a private repository. Releases are published to the public [planwell.brew](https://github.com/cucumbers2blue/planwell.brew) repository.
 
 ## License
 
